@@ -1,2 +1,2 @@
 # plsql
-My plssq scripts
+My plsql scripts
